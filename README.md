@@ -9,11 +9,11 @@
 
 ### 👀 My Github Stats
 
-[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=AviralDubey&count_private=true&show_icons=true&theme=radical)](https://github.com/Dubeyaviral)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dubeyaviral&show_icons=true&theme=radical&layout=compact)](https://github.com/Dubeyaviral)
+[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=Dubeyaviral&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Dubeyaviral)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dubeyaviral&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Dubeyaviral)
 </a>
 
-[![Aviral's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dubeyaviral&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aviral's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dubeyaviral&theme=tokyo-night)](https://github.com/Dubeyaviral/github-readme-activity-graph)
 
 
 
