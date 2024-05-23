@@ -3,8 +3,8 @@
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m practicing learning **Data Structures and Algorithms.**
-- 🔥 I'm also trying to hone my skills in the field of  **Web Developement**
+- 🌱 I’m practicing and learning **Data Structures and Algorithms.**
+- 🔥 I'm also trying to sharpen my skills in the field of  **Web Developement**
 - 📫 Drop a mail at **aviraldubey2000@gmail.com**
 
 ### 👀 My Github Stats
